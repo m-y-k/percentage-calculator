@@ -1,4 +1,4 @@
-# iYusufOp_1
+# Percentage-calculator
 Percentage and Result Calculator 
 
 
